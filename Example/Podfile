@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AmazingKit_Example' do
+  pod 'AmazingKit', :path => '../'
+
+  target 'AmazingKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
