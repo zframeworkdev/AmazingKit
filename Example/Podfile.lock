@@ -1,0 +1,16 @@
+PODS:
+  - AmazingKit (0.1.0)
+
+DEPENDENCIES:
+  - AmazingKit (from `../`)
+
+EXTERNAL SOURCES:
+  AmazingKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AmazingKit: 7117a301601d5445a41eb949cd2752f1562953e1
+
+PODFILE CHECKSUM: 0f163be36cff91d0b2792aad9f8c9a96ab63e361
+
+COCOAPODS: 1.5.3
